@@ -1,13 +1,10 @@
-[README.md](https://github.com/user-attachments/files/27084569/README.md)
-# GC-Writer Assistant
+﻿# GC-Writer Assistant
 
 GC-Writer Assistant 是一个面向中文网文创作场景的本地化作家助手写作工具，支持章节导入、章节展示、章节大纲提取、码字、AI 润色、AI 续写、主线框架整理、本地文件夹保存以及主题配置等功能。
 
 当前版本适用于 **Windows**。
 
 ---
-## 工具介绍和视频演示地址
-——
 
 ## 项目说明
 
