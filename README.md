@@ -3,7 +3,9 @@
 GC-Writer Assistant 是一个面向中文网文创作场景的本地化作家助手写作工具，支持章节导入、章节展示、章节大纲提取、码字、AI 润色、AI 续写、主线框架整理、本地文件夹保存以及主题配置等功能。
 
 当前版本适用于 **Windows**。
+项目功能/教学视频介绍地址：
 
+https://www.bilibili.com/video/BV1A6ofBJEQH/?spm_id_from=333.1387.homepage.video_card.click&vd_source=67e76ff57f53d4557d6c46c1f690a0c0
 ---
 
 ## 项目说明
